@@ -25,7 +25,4 @@ public class CreditCard implements IScan {
         return "Payment Successful";
     }
 
-    public String Scan() {
-        return null;
-    }
 }

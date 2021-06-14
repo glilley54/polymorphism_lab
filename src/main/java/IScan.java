@@ -1,5 +1,5 @@
 public interface IScan {
 
-    String Scan();
+    String scan();
 
 }

@@ -37,7 +37,4 @@ public class DebitCard implements IScan {
         return "Payment Complete";
     }
 
-    public String Scan() {
-        return null;
-    }
 }

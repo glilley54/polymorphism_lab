@@ -21,7 +21,5 @@ public class Ticket implements IScan{
         return this.qrCode;
     }
 
-    public String Scan() {
-        return null;
-    }
+
 }

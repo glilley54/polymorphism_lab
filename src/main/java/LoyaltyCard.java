@@ -15,7 +15,4 @@ public class LoyaltyCard implements IScan {
         return this.barCode;
     }
 
-    public String Scan() {
-        return null;
-    }
 }
